@@ -1,18 +1,13 @@
-import React from "react";
-import Counter from './Counter';
+import React from 'react';
 
 function App() {
   return (
     <div className="container">
-      <header className="header">
-        <h1 className="">Hello app</h1>
-      </header>
-      <main className="App-main">
-        <Counter />
-      </main>
+      <section className='todo-app'>
+        
+      </section>
     </div>
   );
 }
 
 export default App;
-
