@@ -21,6 +21,7 @@ function Counter() {
         -1 Button
       </button>
       {counter}
+      {counter}
     </div>
   );
 }
